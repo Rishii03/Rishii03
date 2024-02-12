@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishii03
 - 👀 I’m interested in software development and work for self
-- 🌱 I’m currently learning procedural oriented programming 
+- 🌱 I’m currently learning Node.js programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
